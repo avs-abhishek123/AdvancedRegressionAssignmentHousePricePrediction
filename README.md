@@ -1,7 +1,7 @@
 # AdvancedRegressionAssignmentHousePricePrediction
-Advanced Regression Assignment House Price Prediction
 
-# Project Name
+# Project Name - Advanced Regression Assignment House Price Prediction
+
 > **Problem Statement**
 
 A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia. The data is provided in the CSV file below.
@@ -63,10 +63,10 @@ You are required to model the price of houses with the available independent var
 
 
 ## Technologies Used
-- Python - version 3.6.9
-- Numpy - version 1.21.5
 - Pandas - version 1.3.5
 - Seaborn - version 0.11.2
+- Python - version 3.6.9
+- Numpy - version 1.21.5
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -77,7 +77,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@shrutipandit707] - feel free to contact me!
+Created by [@avs-abhishek123] - feel free to contact me!
 
 
 <!-- Optional -->
