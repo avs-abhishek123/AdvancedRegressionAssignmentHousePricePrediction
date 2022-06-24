@@ -41,16 +41,17 @@ You are required to model the price of houses with the available independent var
 
 ## Conclusions
 - The below mentioned variables are significant in predicting the price
-    - LotArea------------- Lot size in square feet
-    - OverallQual--------Rates the overall material and finish of the house
-    - OverallCond-------Rates the overall condition of the house
-    - YearBuilt-------- ---Original construction date
-    - BsmtFinSF1-------Type 1 finished square feet
-    - TotalBsmtSF------Total square feet of basement area
     - GrLivArea----------Above grade (ground) living area square feet
     - TotRmsAbvGrd---Total rooms above grade (does not include bathrooms)
     - Street_Pave-------Pave road access to property
     - RoofMatl_Metal--Roof material_Metal
+    - LotArea------------- Lot size in square feet
+    - YearBuilt-------- ---Original construction date
+    - BsmtFinSF1-------Type 1 finished square feet
+    - TotalBsmtSF------Total square feet of basement area
+    - OverallQual--------Rates the overall material and finish of the house
+    - OverallCond-------Rates the overall condition of the house
+    
 - How well Ridge Regression is descibing the price of house?
     - R2 Score of Ridge Regression on training dataset is 88%
     - R2 Score of Ridge Regression on test dataset is 87%
