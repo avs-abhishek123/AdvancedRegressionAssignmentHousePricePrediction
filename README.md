@@ -1,6 +1,4 @@
-# AdvancedRegressionAssignmentHousePricePrediction
-
-# Project Name - Advanced Regression Assignment House Price Prediction
+# Advanced Regression Assignment House Price Prediction
 
 > **Problem Statement**
 
